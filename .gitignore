@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.tools/
+.npm-cache/
+.codeartsdoer/
+.agents/
+skills-lock.json
+.npmrc
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
